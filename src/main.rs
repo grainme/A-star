@@ -2,7 +2,7 @@
 /// author: grainme
 ///
 /// subject: Implementing A*
-/// idea: balancing what we know with what we estimate to optimal decisions.
+/// idea: balancing what we know with what we estimate to make optimal decisions.
 /// date: 17 april 2025
 ///
 ///
